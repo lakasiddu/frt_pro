@@ -15,5 +15,5 @@
 ## Services Page
 ![Screenshot 2022-10-30 180326](https://user-images.githubusercontent.com/116721007/198878654-3401ec36-7bc6-49d7-b621-a90320001ae5.png)
 
-## Contact Us Page
+## Contact Page
 ![Screenshot 2022-10-30 180432](https://user-images.githubusercontent.com/116721007/198878705-6aa2c87f-7472-4b77-8fb2-13388e191dec.png)
